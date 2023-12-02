@@ -32,7 +32,9 @@ Plugins organized by section and ordered alphabetically.
 
 
 ## Plugin Management
+
 * [Dein.vim](https://github.com/Shougo/dein.vim)
+* [lazy.nvim](https://github.com/folke/lazy.nvim)
 * [Neobundle](https://github.com/Shougo/neobundle.vim)
 * [Pathogen](https://github.com/tpope/vim-pathogen)
 * [VAM](https://github.com/MarcWeber/vim-addon-manager)
@@ -82,6 +84,7 @@ Plugins organized by section and ordered alphabetically.
 ### File Management
 
 * [Dirvish](https://github.com/justinmk/vim-dirvish)
+* [NERDTree](https://github.com/preservim/nerdtree)
 * [Vinegar](https://github.com/tpope/vim-vinegar)
 
 ### Git
@@ -94,6 +97,7 @@ Plugins organized by section and ordered alphabetically.
 * [Airline](https://github.com/bling/vim-airline) + [Airline Themes](https://github.com/vim-airline/vim-airline-themes)
 * [vim-diminactive](https://github.com/blueyed/vim-diminactive)
 * [vim-lastplace](https://github.com/farmergreg/vim-lastplace)
+* [vim-quickui](https://github.com/skywind3000/vim-quickui)
 * [Signify](https://github.com/mhinz/vim-signify)
 * [Startify](https://github.com/mhinz/vim-startify)
 
@@ -112,6 +116,7 @@ Plugins organized by section and ordered alphabetically.
 ### Task Running
 
 * [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
+* [AsyncTasks](https://github.com/skywind3000/asynctasks.vim)
 * [Dispatch](https://github.com/tpope/vim-dispatch)
 * [vim-test](https://github.com/vim-test/vim-test)
 
@@ -161,6 +166,7 @@ Plugins organized by section and ordered alphabetically.
 
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown)
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
+* [mkdx](https://github.com/SidOfc/mkdx)
 
 ### PHP
 
@@ -197,6 +203,8 @@ Plugins organized by section and ordered alphabetically.
 
 * [init.nvim](https://github.com/Blacksuan19/init.nvim)
 * [Janus](https://github.com/carlhuda/janus)
+* [LazyVim](https://github.com/LazyVim/LazyVim)
+* [LunarVim](https://github.com/lunarvim/lunarvim)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)
 
